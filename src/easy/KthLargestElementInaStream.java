@@ -1,5 +1,7 @@
 package easy;
 
+import java.util.PriorityQueue;
+
 /**
  * @Description 703. Kth Largest Element in a Stream
  * Design a class to find the kth largest element in a stream. Note that it is the kth largest element in the sorted order, not the kth distinct element.
@@ -33,13 +35,33 @@ package easy;
  */
 public class KthLargestElementInaStream {
     static class KthLargest {
+        PriorityQueue<Integer> heap = new PriorityQueue<>();
+        int k;
 
         public KthLargest(int k, int[] nums) {
-
+            this.k = k;
+            for (int n : nums)
+                add(n);
         }
 
+        /**
+         * 思路：
+         * 保持一个 k 大小的优先级队列(相当于小顶堆)
+         * 当新的数 val 需要 add 时：
+         * 如果当前heap.size <= k ，直接入队；
+         * 否则，val > heap.peak(当前堆中最小数), 说明 val 加入队列为前K大的，此时移除 heap 中当前最小，将 val 加入；
+         * 最后，返回当前 heap 最小，即为第 K 大数
+         * @param val
+         * @return
+         */
         public int add(int val) {
-            return 1;
+            if (this.heap.size() < this.k) {
+                this.heap.offer(val);
+            } else if (this.heap.size() > 0 && this.heap.peek() < val) {
+                this.heap.poll();
+                this.heap.offer(val);
+            }
+            return this.heap.peek();
         }
     }
 
