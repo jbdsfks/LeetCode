@@ -1,4 +1,4 @@
-package hard;
+package medium;
 
 /**
  * @Description 264. Ugly Number II
