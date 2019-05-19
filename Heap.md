@@ -5,6 +5,10 @@
 |:---|:---|:---|:---|
 | 215|[数组中的第K个最大元素](src/medium/KthLargestElementInAnArray.java)|中等| |
 | 264|[丑数 II](src/medium/UglyNumberII.java)|中等| |
+| 313|[超级丑数](src/medium/SuperUglyNumber.java)|中等| |
+| 347|[前K个高频元素](src/medium/TopKFrequentElements.java)|中等| |
+| 355|[设计推特](src/medium/DesignTwitter.java)|中等| |
+| 373|[查找和最小的K对数字](src/medium/FindKPairsWithSmallestSums.java)|中等| |
 | 703|[数据流中的第K大元素](src/easy/KthLargestElementInaStream.java)|简单| |
 
 
