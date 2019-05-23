@@ -3,8 +3,7 @@
 按照难度分包  
 题目英文名起名     
 
-# Category
-逆序分类:   
+# Category   
 [栈](Stack.md)   
 [堆](Heap.md)    
 [Ordererd Map](OrdererMap.md)   

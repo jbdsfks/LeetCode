@@ -12,7 +12,14 @@
 | 378|[有序矩阵中第K小的元素](src/medium/KthSmallestElementInASortedMatrix.java)|中等| |
 | 451|[根据字符出现频率排序](src/medium/SortCharactersByFrequency.java)|中等| |
 | 659|[分割数组为连续子序列](src/medium/SplitArrayIntoConsecutiveSubsequences.java)|中等| |
+| 692|[前K个高频单词](src/medium/TopKFrequentWords.java)|中等| |
 | 703|[数据流中的第K大元素](src/easy/KthLargestElementInaStream.java)|简单| |
+| 767|[重构字符串](src/easy/ReorganizeString.java)|中等| |
+
+
+
+
+
 
 
 
