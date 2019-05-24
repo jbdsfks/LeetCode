@@ -6,10 +6,10 @@
 | 13|[罗马数字转整数](src/easy/RomanToInteger.java)|简单| |
 | 14|[最长公共前缀](src/easy/LongestCommonPrefix.java)|简单| |
 | 20|[有效的括号](src/easy/ValidParentheses.java)|简单| |
-| 21|[合并两个有序链表](src/medium/MergeTwoSortedLists.java)|简单| |
-| 26|[删除排序数组中的重复项](src/medium/RemoveDuplicatesFromSortedArray.java)|简单| |
-| 27|[移除元素](src/medium/RemoveElement.java)|简单| |
-| 28|[实现strStr()](src/medium/ImplementStrStr.java)|简单| |
+| 21|[合并两个有序链表](src/easy/MergeTwoSortedLists.java)|简单| |
+| 26|[删除排序数组中的重复项](src/easy/RemoveDuplicatesFromSortedArray.java)|简单| |
+| 27|[移除元素](src/easy/RemoveElement.java)|简单| |
+| 28|[实现strStr()](src/easy/ImplementStrStr.java)|简单| |
 | 225|[用队列实现栈](src/easy/ImplementStackUsingQueues.java)|简单| |
 | 232|[用栈实现队列](src/easy/ImplementQueueUsingStacks.java)|简单| |
 | 496|[下一个更大元素I](src/easy/NextGreaterElementI.java)|简单| |

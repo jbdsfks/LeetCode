@@ -3,7 +3,7 @@
 
 | 题号 | 题名 | 难度 | |
 |:---|:---|:---|:---|
-| 21|[合并两个有序链表](src/medium/MergeTwoSortedLists.java)|简单| |
+| 21|[合并两个有序链表](src/easy/MergeTwoSortedLists.java)|简单| |
 
 
 
