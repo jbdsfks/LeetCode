@@ -3,8 +3,13 @@
 按照难度分包  
 题目英文名起名     
 
-# Category   
+# 难度
+[简单](EASY.md)   
+[中等](MEDIUM.md)   
+[困难](HARD.md)   
+# 分类
 [栈](Stack.md)   
 [堆](Heap.md)    
+[链表](LinkedList.md)
 [Ordererd Map](OrdererMap.md)   
 [Sliding Window](SlidingWindow.md)      

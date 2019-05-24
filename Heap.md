@@ -15,6 +15,7 @@
 | 692|[前K个高频单词](src/medium/TopKFrequentWords.java)|中等| |
 | 703|[数据流中的第K大元素](src/easy/KthLargestElementInaStream.java)|简单| |
 | 767|[重构字符串](src/easy/ReorganizeString.java)|中等| |
+| 973|[最接近原点的 K 个点](src/easy/KClosestPointstoOrigin.java)|中等| |
 
 
 
