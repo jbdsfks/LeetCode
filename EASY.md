@@ -10,6 +10,10 @@
 | 26|[删除排序数组中的重复项](src/easy/RemoveDuplicatesFromSortedArray.java)|简单| |
 | 27|[移除元素](src/easy/RemoveElement.java)|简单| |
 | 28|[实现strStr()](src/easy/ImplementStrStr.java)|简单| |
+| 35|[搜索插入位置](src/easy/SearchInsertPosition.java)|简单| |
+| 38|[报数](src/easy/CountAndSay.java)|简单| |
+| 53|[最大子序和](src/easy/MaximumSubarray.java)|简单| |
+| 58|[最后一个单词的长度](src/easy/LengthOfLastWord.java)|简单| |
 | 225|[用队列实现栈](src/easy/ImplementStackUsingQueues.java)|简单| |
 | 232|[用栈实现队列](src/easy/ImplementQueueUsingStacks.java)|简单| |
 | 496|[下一个更大元素I](src/easy/NextGreaterElementI.java)|简单| |
