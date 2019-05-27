@@ -14,6 +14,8 @@
 | 38|[报数](src/easy/CountAndSay.java)|简单| |
 | 53|[最大子序和](src/easy/MaximumSubarray.java)|简单| |
 | 58|[最后一个单词的长度](src/easy/LengthOfLastWord.java)|简单| |
+| 66|[加一](src/easy/PlusOne.java)|简单| |
+| 67|[二进制求和](src/easy/AddBinary.java)|简单| |
 | 225|[用队列实现栈](src/easy/ImplementStackUsingQueues.java)|简单| |
 | 232|[用栈实现队列](src/easy/ImplementQueueUsingStacks.java)|简单| |
 | 496|[下一个更大元素I](src/easy/NextGreaterElementI.java)|简单| |

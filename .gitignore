@@ -1,4 +1,3 @@
 .idea/
+.vscode/
 out/
-META-INF/
-LeetCode.iml
