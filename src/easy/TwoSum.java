@@ -35,13 +35,13 @@ public class TwoSum {
         }
     }
     public static void main(String[] args) {
-        System.out.println("First Test: ");
+        System.out.println("First test.Test: ");
         int[] test = {2, 11, 7, 15};
         Solution solution = new Solution();
         int[] result = solution.twoSum(test, 9);
         System.out.println("[" + result[0] + "," + result[1] + "]");
 
-        System.out.println("Second Test: ");
+        System.out.println("Second test.Test: ");
         test = new int[]{2, 11, 7, 15};
         solution = new Solution();
         result = solution.twoSum(test, 13);

@@ -1,3 +1,6 @@
 .idea/
 .vscode/
 out/
+*.json
+*.md
+doc/

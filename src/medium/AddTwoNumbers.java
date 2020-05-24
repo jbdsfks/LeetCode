@@ -105,7 +105,7 @@ public class AddTwoNumbers {
 
 
     public static void main(String[] args) {
-        System.out.println("First Test: ");
+        System.out.println("First test.Test: ");
 
         int[] l1 = new int[]{2, 4, 3};
         int[] l2 = new int[]{5, 6, 4};
